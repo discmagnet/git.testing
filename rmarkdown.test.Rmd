@@ -2,7 +2,7 @@
 title: "Testing RMarkdown with GitHub"
 author: "Kyle Kumbier"
 date: "June 7, 2018"
-output: html_document
+output: github_document
 ---
 
 Hello world!
