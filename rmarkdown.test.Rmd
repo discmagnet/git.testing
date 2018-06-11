@@ -7,6 +7,22 @@ output: github_document
 
 Hello world!
 
+## I Like Tabs {.tabset .tabset-fade .tabset-pills}
+
+### Tab 1
+
+As you can see!
+
+### Tab 2
+
+Tabs do work in a GitHub Document
+
+### Tab 3
+
+Yay!
+
+#
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
