@@ -15,7 +15,7 @@ As you can see!
 
 ### Tab 2
 
-Tabs do work in a GitHub Document
+Tabs do **not** work in a GitHub Document
 
 ### Tab 3
 

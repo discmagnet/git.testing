@@ -5,6 +5,21 @@ June 7, 2018
 
 Hello world!
 
+I Like Tabs
+-----------
+
+### Tab 1
+
+As you can see!
+
+### Tab 2
+
+Tabs do work in a GitHub Document
+
+### Tab 3
+
+Yay!
+
 R Markdown
 ----------
 
